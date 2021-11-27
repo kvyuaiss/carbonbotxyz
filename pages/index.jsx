@@ -10,7 +10,6 @@ export default function Home() {
         <meta name="description" content="The easy way to manage, moderate, and leveling up your community. We provide services to users for free." />
         <meta name="keywords" content="mod, moderate, moderation, discord, roblox, dyno, bot, manage, fun, statix, eastside, platform, carbon, hyra, " />
         <meta name="robots" content="index, follow" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta property="og:type" comtent="websote" />
         <meta property="og:url" content="https://carbonbot.xyz" />
